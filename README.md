@@ -30,18 +30,12 @@ This project monitors gas concentrations using an MQ sensor and displays the res
 ## Work Steps
 
 **1.** Prepare the tools and materials to be used.
-
 **2.** Carry out the wiring process using Figure schematic of the above circuit.
-
-**3.**Open the Arduino IDE software that has been installed on laptop/computer.
-
-**4.**Download all the libraries above and insert the library by opening the Arduino IDE, selecting Sketch > Include Library -> Add.Zip Library.
-
-**5.**Type the program sketch on the Arduino IDE page.
-
-**6.**Enter the I2C LCD address in the sketch program.
-
-**7.**Carry out the program uploading process.
+**3.** Open the Arduino IDE software that has been installed on laptop/computer.
+**4.** Download all the libraries above and insert the library by opening the Arduino IDE, selecting Sketch > Include Library -> Add.Zip Library.
+**5.** Type the program sketch on the Arduino IDE page.
+**6.** Enter the I2C LCD address in the sketch program.
+**7.** Carry out the program uploading process.
 
 ## Code Explanation
 
