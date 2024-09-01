@@ -164,7 +164,7 @@ long MQGetPercentage(float rs_ro_ratio, float *pcurve)
 
 ## Pin Definitions
 
-- CalibrationLed: LED pin for indicating calibration status (13)
+- CalibrationLed: LED pin for indicating calibration status (D13)
 - MQ_PIN: Analog input pin for the MQ sensor (A0)
 
 ## Functionality
